@@ -1,2 +1,2 @@
 ## Purpose:
-    Just learn basics by following youtube tutorial
+Just learn basics by following youtube tutorial
